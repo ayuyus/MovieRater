@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieRater</string>
+    <string name="tv_Name">Name</string>
+    <string name="tv_Description">Description</string>
+    <string name="et_name_hint">Enter the title of movie</string>
+    <string name="et_description_hint">Enter a short description of the movie</string>
+
+    <string name="rbtnEnglish_text">English</string>
+    <string name="rbtnTamil_text">Tamil</string>
+    <string name="rbtnChinese_text">Chinese</string>
+    <string name="rbtnMalay_text">Malay</string>
+    <string name="tv_Language">Language</string>
+
+    <string name="tv_ReleaseD">Release date</string>
+    <string name="et_ReleaseD_hint">Enter release date</string>
+
+    <string name="cb_NotSuitable_text">Not suitable for all audience</string>
+    <string name="cb_Violence_text">Violence</string>
+    <string name="cb_languageUsed_text">Language Used</string>
+
+    <string name="btnAddMovie_text">Add Movie</string>
+
+</resources>
